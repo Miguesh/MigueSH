@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Doing ny best
+### Doing my best
 
 <!--
 **Miguesh/MigueSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
