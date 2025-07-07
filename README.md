@@ -1,17 +1,16 @@
-## Hi there 👋
-### Doing my best
+# 👋 Hi, I’m Miguel Angel Sierra Hayer
 
-<!--
-**Miguesh/MigueSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Business Intelligence | Automation | AI Specialization**
 
-Here are some ideas to get you started:
+- 🎓 MSc in Global Business Management (ESC Rennes School of Business, France)
+- 🎓 B.Sc. Financial Engineering (EIA University, Colombia)
+- 🧩 Specializing in Artificial Intelligence: Machine Learning, Deep Learning & Heuristic Algorithms
+- 🐍 Skills: Python | SQL | Power BI | Looker Studio | R | Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💡 What I do:**  
+Transform data into actionable insights. I build data pipelines, automate workflows and create BI dashboards to drive better decisions.
+
+**🚀 Current focus:**  
+Building projects on AI applications, chatbot validation and automation to expand my portfolio.
+
+📫 [LinkedIn](https://linkedin.com/in/miguelsh) — Let’s connect!
